@@ -2,6 +2,8 @@
 A space to brush up on some technologies I like using a "learn by doing" approach.
 
 # Technologies
+Things I want to incorporate and explore through this project.
+
 * Frontend
     * [Tauri](https://tauri.app) ([Rust](https://www.rust-lang.org))
     * [React](https://react.dev) ([TypeScript](https://www.typescriptlang.org))
@@ -13,3 +15,11 @@ A space to brush up on some technologies I like using a "learn by doing" approac
     * [pnpm](https://pnpm.io)
 * Hardware
     * [RaspberryPi](https://www.raspberrypi.org)
+* Other
+    * Geospatial data
+
+# Sources
+Relevant sources I've used along the way.
+
+* [Tauri Guides](https://tauri.app/v1/guides/)
+* 
