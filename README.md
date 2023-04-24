@@ -1,7 +1,7 @@
 # fullstack
 A space to brush up on some technologies I like using a "learn by doing" approach.
 
-# Technologies
+## Technologies
 Things I want to incorporate and explore through this project.
 
 * Frontend
@@ -21,8 +21,9 @@ Things I want to incorporate and explore through this project.
 * Other
     * Geospatial data
 
-# Sources
+## Sources
 Relevant sources I've used along the way.
 
 * [Tauri Guides](https://tauri.app/v1/guides/)
-* 
+* [My Python/Java/Spring/Go/Whatever Client Won’t Connect to My Apache Kafka Cluster in Docker/AWS/My Brother’s Laptop. Please Help!](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/)
+* [Apache Kafka Quickstart](https://kafka.apache.org/quickstart)
